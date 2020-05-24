@@ -1,0 +1,6 @@
+﻿  Operator.cpp
+  Parser.cpp
+  main.cpp
+C:\Users\jawor\source\repos\Kalkulator\Kalkulator\StringToOperators.h(13,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Kalkulator.vcxproj -> C:\Users\jawor\source\repos\Kalkulator\Debug\Kalkulator.exe
